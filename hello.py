@@ -1,0 +1,2 @@
+#program
+print('hello')
